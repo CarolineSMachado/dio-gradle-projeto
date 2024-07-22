@@ -1,8 +1,7 @@
 package model;
 
-import java.math.BigDecimal;
-
 import jakarta.persistence.*;
+import java.math.BigDecimal;
 
 public class Account {
 

@@ -1,8 +1,8 @@
 package model;
 
-import jakarta.persistence.*;
-
 import java.util.List;
+
+import jakarta.persistence.*;
 
 @Entity(name = "tb_user")
 public class User {

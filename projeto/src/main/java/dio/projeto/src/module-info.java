@@ -11,4 +11,6 @@ module projeto {
 	requires java.xml;
 	requires jdk.compiler;
 	requires jdk.javadoc;
+	requires java.management;
+	requires jdk.jfr;
 }
